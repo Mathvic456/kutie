@@ -9,7 +9,7 @@ import { useToast } from "@/hooks/use-toast"
 const audioMessages = [
   {
     id: 1,
-    title: "Good Morning Beautiful",
+    title: "I pray you smile",
     description: "Start your day with love",
     duration: "2:30",
     audioUrl: "/audio/beauty.mp3",

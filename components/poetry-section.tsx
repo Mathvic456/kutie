@@ -9,49 +9,25 @@ import { Heart, BookOpen, ArrowLeft, ArrowRight, Sparkles, Flower2 } from "lucid
 const poems = [
   {
     id: 1,
-    title: "Brown Skin Goddess",
-    category: "Beauty",
-    content: `Your skin glows like honey in morning light,
-Each shade and tone a work of art so bright.
-Your locs cascade like rivers of pure grace,
-A crown of beauty framing your sweet face.
-
-You are the sun that brightens every room,
-A flower that will always be in bloom.
-Your brown skin tells a story rich and deep,
-Of strength and beauty that will always keep.`,
+    title: "From the ruins that make VIctor, Vic",
+    category: "Love",
+    content: ` If we were to be sunflowers in a field of sunflowers, I'd look to you rather than the sun, I'd die for you, rather than the sun.`,
     color: "from-purple-400 to-pink-400",
     icon: "✨",
   },
   {
     id: 2,
-    title: "Final Year Warrior",
-    category: "Strength",
-    content: `Through textbooks thick and deadlines that won't wait,
-You push ahead, refusing to break or hate.
-Each assignment done, each test that you complete,
-Brings you closer to making your dreams meet.
-
-The stress may come, the pressure may feel strong,
-But remember, dear, you've been brave all along.
-Your mind is sharp, your spirit burning bright,
-You'll conquer all and reach your greatest height.`,
+    title: "Meeting you, knowing you",
+    category: "Time and CHance",
+    content: `For I thank you for merely living at the same time as I do. Dear Kutie, my alone has never felt so good becuase now, it has been invaded by the thoughts of you, so I am no more alone`,
     color: "from-indigo-400 to-purple-400",
     icon: "💪",
   },
   {
     id: 3,
-    title: "Healing Heart",
-    category: "Recovery",
-    content: `Rest now, my love, let your body heal,
-Take time to process all that you feel.
-Your strength isn't measured by what you do,
-But by the gentle way you're caring for you.
-
-Each breath you take, each moment that you rest,
-Is proof that you deserve only the best.
-Your body knows the way to make you whole,
-Trust in the wisdom of your healing soul.`,
+    title: "Atlas",
+    category: "Normal?",
+    content: `I find it so amusing that we all pretend to be alone, when we could be insanely interesting instead.`,
     color: "from-emerald-400 to-teal-400",
     icon: "🌿",
   },
@@ -73,33 +49,17 @@ It's self-love practiced, fulfilling all your dreams.`,
   },
   {
     id: 5,
-    title: "Crown of Locs",
-    category: "Natural Beauty",
-    content: `Each loc a story, twisted with such care,
-A testament to your natural flair.
-They frame your face like art upon a wall,
-Your crown of glory, standing proud and tall.
-
-The way they catch the light, the way they move,
-Each twist and turn has something to prove.
-That natural beauty needs no disguise,
-Your locs are perfect in everyone's eyes.`,
+    title: "Stars",
+    category: "You, Me, Us",
+    content: `If I was a star and you were a star, I would wink at you and blink at you and the earthlings would call it science`,
     color: "from-amber-400 to-yellow-400",
     icon: "👑",
   },
   {
     id: 6,
-    title: "Future Bright",
+    title: "Despair",
     category: "Dreams",
-    content: `Beyond these walls of study and of stress,
-Awaits a future filled with happiness.
-Your dreams are valid, your goals within reach,
-The world is waiting for what you will teach.
-
-Success will find you, as it always does,
-For those who work with passion and with love.
-Your future's bright, your path is crystal clear,
-Amazing things are drawing ever near.`,
+    content: `For if you were to ever leave. I would try, to see you off with love. To say thank you. For knowing me, for stopping by.`,
     color: "from-yellow-400 to-orange-400",
     icon: "🌟",
   },
@@ -107,15 +67,7 @@ Amazing things are drawing ever near.`,
     id: 7,
     title: "You Are Enough",
     category: "Self-Worth",
-    content: `In moments when you doubt your worth and might,
-Remember you're a beacon of pure light.
-You don't need fixing, changing, or to be
-Someone other than who you're meant to be.
-
-Your laugh, your smile, your gentle, caring way,
-Make this world brighter every single day.
-You are enough, exactly as you are,
-My beautiful, brilliant, shining star.`,
+    content: `If you are intolerable, give me the permission to be the one to tolerate you. For you are enough, just as you are, and I will love you for it.`,
     color: "from-rose-400 to-pink-400",
     icon: "💖",
   },
@@ -123,15 +75,7 @@ My beautiful, brilliant, shining star.`,
     id: 8,
     title: "Love Letter in Verse",
     category: "Love",
-    content: `If I could write your beauty in the stars,
-Each constellation would pale next to yours.
-Your smile could light the darkest of nights,
-Your presence makes everything feel right.
-
-You are the poem I never knew I'd write,
-The song that makes my heart take flight.
-In every word of love I try to say,
-You are the meaning, night and day.`,
+    content: 'I do not wish for you in a soft or subtle way. I wish for you in a rough, wild, and passionate way. I want the heartache, the sins, the laughter, the tears, the joy that makes you. Thank you for being you, ',
     color: "from-purple-400 to-pink-400",
     icon: "💕",
   },
