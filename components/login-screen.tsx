@@ -45,7 +45,7 @@ export default function LoginScreen({ onLogin }: LoginScreenProps) {
             </div>
           </div>
           <CardTitle className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-            Healing Vibes for Kutie
+            Kutie's Very own safe space
           </CardTitle>
           <CardDescription className="text-gray-300">A special place of affirmations and love 💕</CardDescription>
         </CardHeader>
